@@ -1,0 +1,29 @@
+.parent {
+    background-color: cornflowerblue;
+    width: 600px;
+    height: 1200px;
+    border: 25px dotted black;
+    /* opacity: 0.3; */
+    background-image: url(./photo-1542840843-3349799cded6.jpg);
+    /* background-size: cover; */
+    background-repeat: no-repeat;
+    /* background-position: center top; */
+    /* background-attachment: fixed; */
+    background-origin: border-box;
+    background-clip: content-box;
+
+}
+.dummy {
+    width: 600px;
+    height: 1200px;
+    background-color: navy;
+}
+.shoaib {
+    background-color: firebrick;
+    width: 600px;
+    height: 1200px;
+    border: 20px dotted red;
+    background-image: url(./1280px-Grey_squirrel_400px.jpg) ;
+    background-size: cover;
+
+}

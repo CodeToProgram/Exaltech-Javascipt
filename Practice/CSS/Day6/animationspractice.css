@@ -1,0 +1,20 @@
+
+body {
+    background-color :greenyellow
+}
+
+.one {
+    width: 300px;
+    height: 150px;
+    margin: 30px;
+    background-color: blue;
+    animation: alternate-reverse;
+    
+}
+.two {
+    width: 300px;
+    height: 150px;
+    margin: 30px;
+    background-color:deeppink;
+}
+

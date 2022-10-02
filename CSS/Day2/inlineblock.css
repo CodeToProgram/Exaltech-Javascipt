@@ -1,0 +1,26 @@
+/* This line of code has to be on the start */
+*{
+    margin: 0px;
+}
+
+body {
+    background-color: slategrey;
+}
+h1 {
+    background-color: seagreen;
+    width: 30opx;
+    height: 200px;
+    display: inline;
+}
+h2 {
+    background-color: rgb(131, 18, 218);
+    width: 30opx;
+    height: 200px;
+    display: inline;
+}
+span {
+    background-color: slateblue;
+    width: 300px;
+    height: 200px;
+    display: block;
+}

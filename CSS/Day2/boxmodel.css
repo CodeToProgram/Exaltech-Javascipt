@@ -1,0 +1,31 @@
+.btn {
+    padding: 10px 20px;
+    border: 5px solid black;
+    margin: 15px;
+    font-size: 30px;
+    background-color: teal;
+}
+
+span {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 50px;
+    font-weight: bolder;
+    font-style: italic;
+    text-align: center;
+    text-decoration-line: underline gold;
+    text-decoration-color: cornflowerblue;
+    text-decoration-style: double;
+    text-transform: capitalize;
+    letter-spacing: 5px;
+    word-spacing: 50px;
+    /* white-space: 50px; */
+    /* text-indent: 200px; */
+    /* line-height: 1.5; */
+}
+
+h1 {
+    text-align: center;
+    text-shadow: 3px 3px 2px cyan, -3px -3px 2px seagreen;
+    display: none;
+    visibility: hidden;
+}

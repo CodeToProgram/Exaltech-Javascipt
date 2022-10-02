@@ -1,0 +1,183 @@
+body{
+    background-color: dimgray;
+}
+
+
+.heading {
+    max-width: 1200px;
+    height: 100px;
+    background-color: darksalmon;
+    position: relative;
+    margin-top: 50px;
+    left: 230px
+    
+}
+button {
+    width: 70%;
+    height: 50px;
+    margin: 10px;
+    position: relative;
+    left: 165px;
+    top: 15px;
+    background-color: green;
+    font-size: 40px;
+    
+}
+.sample{
+    position: absolute;
+    margin-top: 50px;
+}
+.divOne {
+    width: 220px;
+    height: 500px;
+    background-color: cyan;
+    position: absolute;
+    margin-left: 20px;
+    z-index: 1;
+}
+.divTwo {
+    width: 220px;
+    height: 500px;
+    background-color:black;
+    position: absolute;
+    margin-left: 280px;
+    z-index: 2;
+}
+.divThree {
+    width: 220px;
+    height: 500px;
+    background-color:blue;
+    position: absolute;
+    margin-left: 550px;
+    z-index: 3;
+}
+.divFour {
+    width: 220px;
+    height: 500px;
+    background-color:red;
+    position: absolute;
+    margin-left: 830px;
+    z-index: 4;
+}
+.divFive {
+    width: 220px;
+    height: 500px;
+    background-color:gold;
+    position: absolute;
+    margin-left: 1130px;
+    z-index: 4;
+}
+.divSix {
+    width: 220px;
+    height: 500px;
+    background-color:green;
+    position: absolute;
+    margin-left: 1430px;
+    z-index: 4;
+}
+.one {
+    width: 220px;
+    height: 150px;
+    background-color: aliceblue;
+    
+}
+h1 {
+    color:floralwhite;
+    margin-left: 25px;
+}
+.insTa {
+    text-indent: -10px;
+}
+
+b {
+    font-size: 16px;
+    text-align: center;
+    color:maroon;
+    height: 25%;
+    margin-top: 50px;
+    text-decoration: underline;
+    margin-left: 35px;
+}
+.desc {
+    font-size: 15px;
+    width: 80%;
+    height: 50%;
+    text-transform: capitalize;
+    /* border: 2px solid #73AD21; */
+    padding: 10px;
+    padding-left: 20px;
+}
+.three {
+    width: 220px;
+    height: 150px;
+    background-color: aliceblue;
+}
+.five {
+    width: 220px;
+    height: 150px;
+    background-color: aliceblue;
+}
+.seven {
+    width: 220px;
+    height: 150px;
+    background-color: aliceblue;
+}
+.nine {
+    width: 220px;
+    height: 150px;
+    background-color: aliceblue;
+}
+.eleven {
+    width: 220px;
+    height: 150px;
+    background-color: aliceblue;
+}
+.descOne {
+    font-size: 15px;
+    width: 80%;
+    height: 50%;
+    text-transform: capitalize;
+    /* border: 2px solid #73AD21; */
+    padding: 10px;
+    padding-left: 20px;
+    color: red;
+}
+.descTwo {
+    font-size: 15px;
+    width: 80%;
+    height: 50%;
+    text-transform: capitalize;
+    /* border: 2px solid #73AD21; */
+    padding: 10px;
+    padding-left: 20px;
+}
+.descThree {
+    font-size: 15px;
+    width: 80%;
+    height: 50%;
+    text-transform: capitalize;
+    /* border: 2px solid #73AD21; */
+    padding: 10px;
+    padding-left: 20px;
+}
+.descFour {
+    font-size: 15px;
+    width: 80%;
+    height: 50%;
+    text-transform: capitalize;
+    /* border: 2px solid #73AD21; */
+    padding: 4px;
+    padding-left: 20px;
+}
+.descFive {
+    font-size: 15px;
+    width: 80%;
+    height: 50%;
+    text-transform: capitalize;
+    /* border: 2px solid #73AD21; */
+    padding: 4px;
+    padding-left: 20px;
+}
+.gOogle {
+    text-indent: 10px;
+}

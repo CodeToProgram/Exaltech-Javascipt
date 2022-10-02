@@ -1,0 +1,21 @@
+.secondParent {
+    background-color: darkcyan;
+    height: 800px;
+    display: flex;
+    flex-wrap: wrap;
+    /* justify-content: center; */
+    justify-content: space-evenly;
+    /* align-items: center; */
+    /* align-content: center; */
+    /* align-content: space-between; */
+}
+.common {
+    height: 300px;
+    width: 30%;
+    background-color: slateblue;
+    margin: 5px;
+}
+.target {
+    align-self: stretch;
+    height: auto;
+}

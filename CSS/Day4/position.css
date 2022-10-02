@@ -1,0 +1,28 @@
+.sample {
+    height: 2000px;
+    width: 300px;border: 2px solid red;
+    /* position: relative; */
+}
+.sample2 {
+    height: 2000px;
+    width: 300px;
+    border: 5px solid yellow;
+
+}
+.one {
+    height: 100px;
+    width: 100px;
+    border: 4px solid green;
+    position: sticky;
+    top: 0px;
+}
+.two {
+    height: 100px;
+    width: 100px;
+    border: 4px solid blue;
+    position: fixed;
+    top: 650px;
+    right: 30px;
+    /* border-radius: 50px; */
+    cursor: pointer;
+}

@@ -1,0 +1,33 @@
+.parents {
+    width: 800px;
+    height: 1200px;
+    background-color: slateblue;
+    margin: 20px;
+}
+
+.third {
+    background-color: yellowgreen;
+}
+.one {
+    width: 200px;
+    height: 350px;
+    background-color: red;
+}
+.two {
+    width: 400px;
+    height: 350px;
+    background-color: green;
+    /* position: relative; */
+    top: 100px;
+    left: 100px;
+    /* position: static; */
+    /* position: absolute;  */
+
+}
+.three {
+    width: 600px;
+    height: 350px;
+    background-color: blue;
+   
+}
+

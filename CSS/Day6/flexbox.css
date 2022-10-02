@@ -1,0 +1,18 @@
+.parent {
+    background-color: slategray;
+    height: 1300px;
+    /* Mandatory to provide display property to use all the flex properties */
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    flex-direction: ;
+
+
+}
+.child {
+    width: 23%;
+    height: 400px;
+    background-color: seagreen;
+    margin: 5px;
+}

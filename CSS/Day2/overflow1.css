@@ -1,0 +1,21 @@
+.common {
+    height: 450px;
+    width: 100%;
+}
+.first {
+    background-color: chartreuse;
+}
+.second {
+    background-color: brown;
+}
+.third {
+    background-color: darkorange;
+    white-space: nowrap;
+    overflow: scroll;
+}
+.fourth {
+    background-color: aquamarine;
+}
+.fifth {
+    background-color: black;
+}
