@@ -50,10 +50,10 @@
 // };
 // console.log(shoaib(10,10));
 
-function fullname(fname,lname){
-    var a = 'Hello' + fname + lname
-    return a;
-};
-let b = fullname('mohammed','shoaib');
-console.log(b);
+// function fullname(fname,lname){
+//     var a = 'Hello' + fname + lname
+//     return a;
+// };
+// let b = fullname('mohammed','shoaib');
+// console.log(b);
 
