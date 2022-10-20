@@ -57,3 +57,8 @@
 // let b = fullname('mohammed','shoaib');
 // console.log(b);
 
+const getName = (fname,lname,mname) => {
+    return fname + " " + lname + " " + mname
+}
+console.log(getName('Mohammed','Shoaib','Ahmed'));
+
