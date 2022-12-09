@@ -1,25 +1,26 @@
-import logo from './logo.svg';
+import React, { Component} from "react"
 import './App.css';
+import {Navigation} from "./Components/Navigation/Navigation"
+import Body from "./Components/Body/Body";
+import Footer from "./Components/Footer/Footer"
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+class App extends Component {
+  constructor () {
+    super();
+    this.state = {
+      navigationName : ["Home", "About", "Services", "Clients", "Students"],
+      courses : { course1:"HTML", course2:"CSS", course3:"JS"}
+    };
+  }
+  render() {
+    return (
+      <div className="App">
+        {/* <Navigation navName={this.state.navigationName}></Navigation>
+        <Body courseName={this.state.courses}></Body>
+        <Footer></Footer> */}
+      </div>
+    )
+  }
 }
 
 export default App;
